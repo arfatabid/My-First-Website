@@ -8,7 +8,7 @@ Responsive design for moblie, tablet, and desktop,
 Lightweight and fastloading with any JavaScript dependencies
 
 # How to Run
-1. Download or clone this repository to your computer: git clone
+1. Download or clone this repository to your computer: https://github.com/arfatabid/My-First-Website.git  git clone
 2. Run the project: Right-click index.html and select "Open with Live Server" (if you have the Live Server extension installed), OR Simply double-click 
-   index.html to open it in your browser.
-3. Start viewing and scrolling.
+   index.html to open it in your browser
+3. Start viewing and scrolling
